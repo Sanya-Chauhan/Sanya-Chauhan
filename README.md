@@ -29,7 +29,7 @@
   <img title="Julia" alt="Julia" src="https://github.com/Sanya-Chauhan/Sanya-Chauhan/assets/116647771/97f0295b-dc10-4b27-95c9-a24c4ad53dbd" width="80" height="50"/>&nbsp;
   <img src="https://github.com/Sanya-Chauhan/Sanya-Chauhan/assets/116647771/fc60e6ad-1672-41d7-9e97-949b03ccd146" title="R Programming" alt="R Programming" width="60" height="45"/>&nbsp;
   <img src="https://github.com/Sanya-Chauhan/Sanya-Chauhan/assets/116647771/42a8232c-dec9-4f19-a10b-1d160473b33b" title="C" alt="C" width="70" height="50"/>&nbsp;
-  <img src="https://github.com/Sanya-Chauhan/Sanya-Chauhan/assets/116647771/d3b92a00-7e05-4c42-90e2-4e8e9810dab5" title="SQL" alt="SQL" width="80" height="50"/>&nbsp;
+  <img src="https://github.com/Sanya-Chauhan/Sanya-Chauhan/assets/116647771/d3b92a00-7e05-4c42-90e2-4e8e9810dab5" title="SQL" alt="SQL" width="90" height="50"/>&nbsp;
   <img src="https://github.com/Sanya-Chauhan/Sanya-Chauhan/assets/116647771/8ab800f5-3c84-4ce1-908a-f5d264ca2fd0" title="Hadoop" alt="Hadoop" width="200" height="50"/>&nbsp;
   <img src="https://github.com/Sanya-Chauhan/Sanya-Chauhan/assets/116647771/15afe9b0-9003-4357-8f23-98d1025632fe" title="SPSS" alt="SPSS" width="70" height="50"/>&nbsp;
   <br><br>
