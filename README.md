@@ -14,7 +14,7 @@
 - ⚡ Excited about data and technology driven companies.
 - 💡 Experienced in Business Analytics, Data Science, Machine Learning, and Operations Research.
 - 🔎 Exploring Artificial Intelligence.
-- 📜 Internships and Projects focused on Machine Learning (Regression, Classification, Clustering), Deep Learning (Neural Networks), Text Analysis (NLP), and GenAI (Large Language Models) on structured as well as unstructured data.
+- 📜 Internships and Projects focused on Machine Learning (Regression, Classification, Clustering), Deep Learning (Neural Networks), Text Analysis (NLP), and GenAI (Large Language Models - Gemini) on structured as well as unstructured data.
 
 📧 You can reach me at sanyachauhan.mit@gmail.com and connect with me on <a href="https://www.linkedin.com/in/sanya-chauhan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="80px" alt="LinkedIn Badge"/>
