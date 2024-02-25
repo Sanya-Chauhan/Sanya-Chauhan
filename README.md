@@ -1,9 +1,7 @@
-### Hi there! ✨
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fSY6yO7pyoMTWYNHVE/giphy.gif" width="200"/>
   <h1>
-  I'm Sanya Chauhan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi there! I'm Sanya Chauhan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
