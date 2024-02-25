@@ -3,21 +3,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fSY6yO7pyoMTWYNHVE/giphy.gif" width="200"/>
   <h1>
-  I'm Sanya Chauhan!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  
+  I'm Sanya Chauhan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<!-- <img src="https://komarev.com/ghpvc/?username=Sanya-Chauhan&style=flat-square&color=blue" alt=""/> -->
-<div id="badges">
-
-
-  Connect with me on </div>
-  <a href="https://www.linkedin.com/in/sanya-chauhan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
 </div>
 
----
 ### 👩‍💻 About Me :
 - 🎓 Currently pursuing Master of Business Analytics from MIT Sloan. Graduated from Lady Shri Ram College, Delhi University in 2023 with Bachelor's in Statistics. 
 - ⚡ Excited about data and technology driven companies.
