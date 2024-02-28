@@ -14,7 +14,7 @@
 - 🔎 Exploring Artificial Intelligence.
 - 📜 Internships and Projects focused on Machine Learning (Regression, Classification, Clustering), Deep Learning (Neural Networks), Text Analysis (NLP), and GenAI (Large Language Models - Gemini) on structured as well as unstructured data.
 
-📧 You can reach me at sanyachauhan.mit@gmail.com and connect with me on <a href="https://www.linkedin.com/in/sanya-chauhan/">
+📧 You can reach me at sanya14@mit.edu and connect with me on <a href="https://www.linkedin.com/in/sanya-chauhan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="80px" alt="LinkedIn Badge"/>
 <br>
 
