@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" height="290" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 ### 👩‍💻 About Me :
-- 🎓 Currently pursuing Master of Business Analytics from MIT Sloan. Graduated from Lady Shri Ram College, Delhi University in 2023 with Bachelor's in Statistics. 
+- 🎓 Currently pursuing Master of Business Analytics from MIT Sloan. Graduated from Lady Shri Ram College, Delhi University in 2023 with a Bachelor of Science (Honors) in Statistics. 
 - ⚡ Excited about data and technology driven companies.
 - 💡 Experienced in Generative AI, Business Analytics, Data Science, Machine Learning, and Operations Research.
 - 🔎 Exploring Artificial Intelligence.
