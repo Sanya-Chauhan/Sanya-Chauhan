@@ -8,7 +8,8 @@
 <img align="right" alt="Coding" width="400" height="290" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 ### 👩‍💻 About Me :
-- 🎓 Currently pursuing Master of Business Analytics from MIT Sloan. Graduated from Lady Shri Ram College, Delhi University in 2023 with a B.Sc. (Hons.) in Statistics. 
+- 📊 Data Scientist at CVS Health in NYC
+- 🎓 Master of Business Analytics, MIT Sloan | B.Sc. (Hons.) Statistics, Lady Shri Ram College - Delhi University
 - ⚡ Excited about data and technology-driven companies.
 - 💡 Experienced in Generative AI, Business Analytics, Data Science, Machine Learning, and Operations Research.
 - 🔎 Exploring Artificial Intelligence.
