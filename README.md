@@ -40,9 +40,3 @@
   <img src="https://github.com/Sanya-Chauhan/Sanya-Chauhan/assets/116647771/3b71c016-bd95-4be6-970b-2456502d6e91" title="Git" alt="Git" width="120" height="50"/>&nbsp;
 </div>
 <br>
-
----
-
-### 📈 My GitHub Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sanya-chauhan&theme=dark&background=000000)](https://git.io/streak-stats) <img src="https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif" width="200px"/> 
-
